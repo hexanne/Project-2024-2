@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [W3Schools](https://w3Schools.com)
+- Live Site URL: [social-links-profile-main](https://social-links-profile-main-kappa.vercel.app)
 
 ## My process
 
@@ -34,9 +34,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here]https://www.your-site.com
-- Frontend Mentor - @hexanne https://www.frontendmentor.io/profile/hexanne
-- Facebook - @justin.steen.254 https://www.facebook.com/justin.steen.254
-- Github - @hexanne https://www.github.com/hexanne
-- Telegram - @developerke https://t.me/developerke
+- Website - [steen portfolio](https://justin-steen-hub.vercel.app)
+- Frontend Mentor - [@hexanne](https://www.frontendmentor.io/profile/hexanne)
+- Facebook - [@justin.steen.254](https://www.facebook.com/justin.steen.254)
+- Github - [@hexanne](https://www.github.com/hexanne)
+- Telegram - [@developerke](https://t.me/developerke)
 
