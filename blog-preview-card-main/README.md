@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [BOX-SHADOW](https://www.w3schools.com/css/css3_shadows_box.asp)
+- Live Site URL: [blog-preview-card-main](https://blog-preview-card-main-eta-gules.vercel.app)
 
 ## My process
 
